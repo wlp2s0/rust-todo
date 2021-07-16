@@ -1,0 +1,6 @@
+# Server configurations
+server:
+  # The port exposed by the app
+  port: 3100
+  # Client URI
+  clienturi: http://localhost:1234
